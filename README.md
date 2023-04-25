@@ -1,4 +1,4 @@
-### Olá visitante! Muito prazer, eu sou o Cassiano e aqui você pode ver o meu portifólio de repositórios! 💾
+### Olá visitante! Muito prazer, eu sou o Cassiano e aqui você pode ver o meu portfólio de repositórios! 💾
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cassiano-dio&show_icons=true&bg_color=00000000)
 
